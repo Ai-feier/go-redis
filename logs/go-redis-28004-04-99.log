@@ -1,0 +1,64 @@
+[INFO][server.go:35] 2023/09/28 16:13:41 start listen
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:13:42 accepted link
+[INFO][server.go:61] 2023/09/28 16:14:01 accepted link
+[ERROR][handler.go:86] 2023/09/28 16:14:27 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:14:27 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:14:27 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:14:44 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:14:44 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:14:44 require multi bulk reply
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14036
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14034
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14035
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14041
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14038
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14040
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14037
+[INFO][handler.go:74] 2023/09/28 16:16:35 connection closed: 127.0.0.1:14039
+[INFO][server.go:44] 2023/09/28 16:16:41 shutting down
+[INFO][handler.go:99] 2023/09/28 16:16:41 handler shutting down
+[INFO][handler.go:65] 2023/09/28 16:16:41 connection closed: 127.0.0.1:14050
+[INFO][handler.go:99] 2023/09/28 16:16:41 handler shutting down
+[INFO][server.go:35] 2023/09/28 16:27:21 start listen
+[INFO][server.go:44] 2023/09/28 16:27:30 shutting down
+[INFO][handler.go:99] 2023/09/28 16:27:30 handler shutting down
+[INFO][server.go:36] 2023/09/28 16:28:41 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:45] 2023/09/28 16:28:46 shutting down
+[INFO][handler.go:99] 2023/09/28 16:28:46 handler shutting down
+[INFO][server.go:36] 2023/09/28 16:28:58 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:62] 2023/09/28 16:29:15 accepted link
+[INFO][server.go:45] 2023/09/28 16:29:55 shutting down
+[INFO][handler.go:99] 2023/09/28 16:29:55 handler shutting down
+[INFO][handler.go:65] 2023/09/28 16:29:55 connection closed: 127.0.0.1:14235
+[INFO][handler.go:99] 2023/09/28 16:29:55 handler shutting down
+[INFO][server.go:36] 2023/09/28 16:30:19 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:62] 2023/09/28 16:30:37 accepted link
+[ERROR][handler.go:86] 2023/09/28 16:30:53 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:30:58 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:30:58 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:30:58 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:31:28 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:31:28 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:31:28 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:32:02 require multi bulk reply
+[ERROR][handler.go:86] 2023/09/28 16:32:02 require multi bulk reply
+[INFO][handler.go:65] 2023/09/28 16:34:47 connection closed: 127.0.0.1:14254
+[INFO][server.go:45] 2023/09/28 16:34:52 shutting down
+[INFO][handler.go:99] 2023/09/28 16:34:52 handler shutting down
+[INFO][server.go:36] 2023/09/28 16:34:59 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:62] 2023/09/28 16:35:10 accepted link
+[ERROR][client.go:190] 2023/09/28 16:35:47 dial tcp 127.0.0.1:6380: connectex: No connection could be made because the target machine actively refused it.
+[ERROR][client.go:190] 2023/09/28 16:35:49 dial tcp 127.0.0.1:6380: connectex: No connection could be made because the target machine actively refused it.
+[ERROR][client.go:190] 2023/09/28 16:35:51 dial tcp 127.0.0.1:6380: connectex: No connection could be made because the target machine actively refused it.
+[ERROR][client.go:190] 2023/09/28 16:35:54 dial tcp 127.0.0.1:6380: connectex: No connection could be made because the target machine actively refused it.
+[ERROR][client.go:190] 2023/09/28 16:35:56 dial tcp 127.0.0.1:6380: connectex: No connection could be made because the target machine actively refused it.
+[INFO][handler.go:65] 2023/09/28 16:36:13 connection closed: 127.0.0.1:14290
+[INFO][server.go:45] 2023/09/28 16:36:15 shutting down
+[INFO][handler.go:99] 2023/09/28 16:36:15 handler shutting down

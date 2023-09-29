@@ -1,0 +1,48 @@
+[INFO][server.go:35] 2023/09/26 14:09:44 start listen
+[INFO][server.go:61] 2023/09/26 14:09:47 accepted link
+[ERROR][handler.go:75] 2023/09/26 14:09:49 empty payload
+[ERROR][handler.go:75] 2023/09/26 14:10:45 empty payload
+[ERROR][handler.go:80] 2023/09/26 14:10:58 require multi bulk bulkReply
+[ERROR][handler.go:80] 2023/09/26 14:11:18 require multi bulk bulkReply
+[INFO][server.go:44] 2023/09/26 14:11:47 shutting down
+[INFO][handler.go:93] 2023/09/26 14:11:47 handler shutting down
+[INFO][handler.go:59] 2023/09/26 14:11:47 connection closed: 127.0.0.1:2161
+[INFO][handler.go:93] 2023/09/26 14:11:47 handler shutting down
+[INFO][server.go:35] 2023/09/26 14:11:54 start listen
+[INFO][server.go:61] 2023/09/26 14:11:54 accepted link
+[ERROR][handler.go:80] 2023/09/26 14:12:18 require multi bulk bulkReply
+[ERROR][handler.go:75] 2023/09/26 14:12:23 empty payload
+[INFO][server.go:44] 2023/09/26 14:12:45 shutting down
+[INFO][handler.go:93] 2023/09/26 14:12:45 handler shutting down
+[INFO][handler.go:59] 2023/09/26 14:12:45 connection closed: 127.0.0.1:2209
+[INFO][handler.go:93] 2023/09/26 14:12:45 handler shutting down
+[INFO][server.go:35] 2023/09/26 14:12:47 start listen
+[INFO][server.go:61] 2023/09/26 14:12:50 accepted link
+[ERROR][handler.go:75] 2023/09/26 14:13:20 empty payload
+[INFO][server.go:44] 2023/09/26 14:13:20 shutting down
+[INFO][handler.go:93] 2023/09/26 14:13:20 handler shutting down
+[INFO][handler.go:59] 2023/09/26 14:13:20 connection closed: 127.0.0.1:2235
+[INFO][handler.go:93] 2023/09/26 14:13:20 handler shutting down
+[INFO][server.go:35] 2023/09/26 14:13:21 start listen
+[INFO][server.go:61] 2023/09/26 14:13:25 accepted link
+[ERROR][handler.go:75] 2023/09/26 14:16:57 empty payload
+[INFO][server.go:44] 2023/09/26 14:16:57 shutting down
+[INFO][handler.go:93] 2023/09/26 14:16:57 handler shutting down
+[INFO][handler.go:59] 2023/09/26 14:16:57 connection closed: 127.0.0.1:2243
+[INFO][handler.go:93] 2023/09/26 14:16:57 handler shutting down
+[INFO][server.go:35] 2023/09/26 14:16:59 start listen
+[INFO][server.go:61] 2023/09/26 14:17:02 accepted link
+[ERROR][handler.go:80] 2023/09/26 14:17:24 require multi bulk bulkReply
+[INFO][server.go:44] 2023/09/26 14:41:25 shutting down
+[INFO][handler.go:93] 2023/09/26 14:41:25 handler shutting down
+[INFO][handler.go:59] 2023/09/26 14:41:25 connection closed: 127.0.0.1:2272
+[INFO][handler.go:93] 2023/09/26 14:41:25 handler shutting down
+[INFO][server.go:35] 2023/09/26 14:41:27 start listen
+[INFO][server.go:61] 2023/09/26 14:41:30 accepted link
+[ERROR][handler.go:80] 2023/09/26 14:41:32 require multi bulk bulkReply
+[ERROR][handler.go:75] 2023/09/26 14:42:00 empty payload
+[ERROR][handler.go:75] 2023/09/26 14:42:00 empty payload
+[INFO][server.go:44] 2023/09/26 16:51:29 shutting down
+[INFO][handler.go:93] 2023/09/26 16:51:29 handler shutting down
+[INFO][handler.go:59] 2023/09/26 16:51:29 connection closed: 127.0.0.1:2701
+[INFO][handler.go:93] 2023/09/26 16:51:29 handler shutting down

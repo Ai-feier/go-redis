@@ -1,0 +1,63 @@
+[INFO][server.go:35] 2023/09/26 18:34:33 start listen
+[INFO][server.go:61] 2023/09/26 18:34:49 accepted link
+[ERROR][parser.go:77] 2023/09/26 18:35:12 goroutine 5 [running]:
+runtime/debug.Stack()
+	K:/Environment/go/src/runtime/debug/stack.go:24 +0x65
+go-redis/resp/parser.parse0.func1()
+	C:/Users/26645/Desktop/goproject/go-redis/resp/parser/parser.go:77 +0x2a
+panic({0xdeaee0, 0xc000196018})
+	K:/Environment/go/src/runtime/panic.go:884 +0x213
+go-redis/resp/parser.readLine(0xc000192010?, 0xc000059f10?)
+	C:/Users/26645/Desktop/goproject/go-redis/resp/parser/parser.go:186 +0x257
+go-redis/resp/parser.parse0({0x219a79a0008?, 0xc0000ca050?}, 0x0?)
+	C:/Users/26645/Desktop/goproject/go-redis/resp/parser/parser.go:87 +0x20a
+created by go-redis/resp/parser.ParseStream
+	C:/Users/26645/Desktop/goproject/go-redis/resp/parser/parser.go:25 +0x98
+
+[INFO][server.go:44] 2023/09/26 18:35:56 shutting down
+[INFO][handler.go:92] 2023/09/26 18:35:56 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:36:18 start listen
+[INFO][server.go:61] 2023/09/26 18:36:23 accepted link
+[INFO][server.go:44] 2023/09/26 18:41:08 shutting down
+[INFO][handler.go:92] 2023/09/26 18:41:08 handler shutting down
+[INFO][handler.go:58] 2023/09/26 18:41:08 connection closed: 127.0.0.1:14586
+[INFO][handler.go:92] 2023/09/26 18:41:08 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:41:41 start listen
+[INFO][server.go:61] 2023/09/26 18:41:50 accepted link
+[INFO][server.go:44] 2023/09/26 18:42:13 shutting down
+[INFO][handler.go:92] 2023/09/26 18:42:13 handler shutting down
+[INFO][handler.go:58] 2023/09/26 18:42:13 connection closed: 127.0.0.1:14699
+[INFO][handler.go:92] 2023/09/26 18:42:13 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:42:20 start listen
+[INFO][server.go:61] 2023/09/26 18:42:20 accepted link
+[ERROR][handler.go:79] 2023/09/26 18:42:37 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:42:37 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:42:37 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:42:56 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:42:56 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:42:56 require multi bulk bulkReply
+[INFO][server.go:44] 2023/09/26 18:43:20 shutting down
+[INFO][handler.go:92] 2023/09/26 18:43:20 handler shutting down
+[INFO][handler.go:58] 2023/09/26 18:43:20 connection closed: 127.0.0.1:14707
+[INFO][handler.go:92] 2023/09/26 18:43:20 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:43:21 start listen
+[INFO][server.go:61] 2023/09/26 18:43:25 accepted link
+[ERROR][handler.go:79] 2023/09/26 18:43:49 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:44:30 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:44:30 require multi bulk bulkReply
+[ERROR][handler.go:79] 2023/09/26 18:44:30 require multi bulk bulkReply
+[INFO][server.go:44] 2023/09/26 18:46:37 shutting down
+[INFO][handler.go:92] 2023/09/26 18:46:37 handler shutting down
+[INFO][handler.go:58] 2023/09/26 18:46:37 connection closed: 127.0.0.1:14739
+[INFO][handler.go:92] 2023/09/26 18:46:37 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:46:39 start listen
+[INFO][server.go:61] 2023/09/26 18:46:42 accepted link
+[INFO][server.go:44] 2023/09/26 18:47:12 shutting down
+[INFO][handler.go:92] 2023/09/26 18:47:12 handler shutting down
+[INFO][handler.go:58] 2023/09/26 18:47:12 connection closed: 127.0.0.1:14789
+[INFO][handler.go:92] 2023/09/26 18:47:12 handler shutting down
+[INFO][server.go:35] 2023/09/26 18:47:13 start listen
+[INFO][server.go:61] 2023/09/26 18:47:17 accepted link
+[INFO][handler.go:58] 2023/09/26 18:47:22 connection closed: 127.0.0.1:14795
+[INFO][server.go:44] 2023/09/26 18:55:10 shutting down
+[INFO][handler.go:92] 2023/09/26 18:55:10 handler shutting down

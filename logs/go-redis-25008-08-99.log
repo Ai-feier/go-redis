@@ -1,0 +1,20 @@
+[INFO][server.go:35] 2023/09/25 20:42:20 start listen
+[INFO][server.go:44] 2023/09/25 20:45:58 shutting down
+[INFO][server.go:35] 2023/09/25 20:46:00 start listen
+[INFO][server.go:44] 2023/09/25 20:46:14 shutting down
+[INFO][server.go:35] 2023/09/25 20:46:16 start listen
+[INFO][server.go:44] 2023/09/25 20:46:28 shutting down
+[INFO][server.go:35] 2023/09/25 20:46:29 start listen
+[INFO][server.go:44] 2023/09/25 20:46:40 shutting down
+[INFO][server.go:35] 2023/09/25 20:46:41 start listen
+[INFO][server.go:61] 2023/09/25 20:46:47 accepted link
+[INFO][server.go:61] 2023/09/25 20:47:24 accepted link
+[INFO][server.go:44] 2023/09/25 20:48:05 shutting down
+[WARN][echo.go:58] 2023/09/25 20:48:05 read tcp 127.0.0.1:6379->127.0.0.1:14818: use of closed network connection
+[WARN][echo.go:58] 2023/09/25 20:48:05 read tcp 127.0.0.1:6379->127.0.0.1:14834: use of closed network connection
+[INFO][server.go:35] 2023/09/25 20:48:07 start listen
+[INFO][server.go:61] 2023/09/25 20:48:10 accepted link
+[INFO][server.go:61] 2023/09/25 20:48:10 accepted link
+[INFO][echo.go:55] 2023/09/25 20:57:06 connection close
+[INFO][echo.go:55] 2023/09/25 20:57:10 connection close
+[INFO][server.go:44] 2023/09/25 21:05:11 shutting down
